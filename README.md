@@ -25,4 +25,5 @@ You'll create a trivia game that shows only one question until the player answer
 
 * Setup repo: 1 minute
 * Review requirements and write user stories: 8 minutes
+* Setting up appState structure: 25 minutes
 
